@@ -11,9 +11,12 @@ A modded version the streamcheap from David Madison off Thingiverse with added L
 * 2 leds to indicate the modes.
 
 # Instructions:
-  * install Arduino.
+  * install Arduino IDE.
   * Edit the ino files to add your passwords. (printable characters only)
-  * compile and upload.
+  * Plug in the device
+  * select Tools>Boards> Arduino Leonardo (or the board you are using)
+  * select Sketch>Verify/Compile 
+  * select Sketch>Upload
   * Enjoy.
 
 
